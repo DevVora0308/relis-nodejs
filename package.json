@@ -30,6 +30,5 @@
     "request": "^2.88.2",
     "two-step-auth": "^1.1.2",
     "utf8": "^3.0.0"
-  },
-  "devDependencies": {}
+  }
 }
