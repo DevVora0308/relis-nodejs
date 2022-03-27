@@ -5,9 +5,13 @@ This is the back end server for my LY Project. It is used for connection of a Fl
 # Features Performed:
 
 Login, Registration & Authentication
+
 Add, Delete, Update Book data
+
 Text Translation
+
 Recommendation
+
 Audio Book Player
 
 # Technologies Used
@@ -15,3 +19,6 @@ Audio Book Player
 NodeJs
 MongoDB
 VS Code
+
+# Deployed using Heroku at:
+https://relis-node.herokuapp.com/
